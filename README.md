@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Recat ,Redux**
 
-- 💬 Ask me about **javascript, react & database**
-
 - 📫 How to reach me **jharavi153@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
