@@ -1,3 +1,5 @@
+![logo](https://github.com/jharavi26/jharavi26/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Ravikumar Vishwanath Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt ="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
