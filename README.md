@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Ravikumar Vishwanath Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt ="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
 Welcome to my GitHub profile. I’m a passionate **full-stack developer** with experience in both front-end and back-end technologies. I'm always learning and building cool projects that solve real-world problems.
 
@@ -20,12 +19,12 @@ Welcome to my GitHub profile. I’m a passionate **full-stack developer** with e
 - **Tools**: Git, Docker, Vercel, AWS
 
 ## 🧑‍💻 Top Projects
-- **[Workler](https://www.workler.in)**: A **job portal and professional networking platform** built with React and Node.js.
-- **Library Management System**: A web-based **library management system** built with **Spring Boot** and **React**.
+- **AI Resume-Builder**: The AI Resume Builder is a web-based application that helps users create professional, ATS-friendly resumes using artificial intelligence. 
+- **E-Commerce**: The E-Commerce Website is a modern, user-friendly online shopping platform that enables seamless buying and selling of products. 
 
 ## 🌱 I’m Currently Learning
 - **Typescript**: Exploring new techniques for make the code throw less runtime errors.
-- **Next JS ** :- Next.js is a React framework that enhances the development of modern web applications with powerful features like server-side rendering (SSR), static site generation (SSG), and API routes.
+- **Next JS** :- Next.js is a React framework that enhances the development of modern web applications with powerful features like server-side rendering (SSR), static site generation (SSG), and API routes.
 
 
 ## 📬 Let's Connect!
