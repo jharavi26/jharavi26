@@ -1,7 +1,7 @@
 ![logo](https://github.com/jharavi26/jharavi26/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Ravikumar Vishwanath Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 Welcome to my GitHub profile. I’m a passionate **full-stack developer** with experience in both front-end and back-end technologies. I'm always learning and building cool projects that solve real-world problems.
 
@@ -28,7 +28,14 @@ Welcome to my GitHub profile. I’m a passionate **full-stack developer** with e
 
 
 ## 📬 Let's Connect!
-- LinkedIn: [Ravikumar Jha](www.linkedin.com/in/ravikumar-jha)
+- LinkedIn: [Ravikumar Jha](https://www.linkedin.com/in/ravikumar-jha)
+
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jharavi26&show_icons=true&locale=en&layout=compact" alt="jharavi26" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jharavi26&show_icons=true&locale=en" alt="jharavi26" /></p>
+
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jharavi26&card_width=550&card_height=200" alt="GitHub Streak" /></a></p>
+
 
 
 ## 🤝 Contributions
